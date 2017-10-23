@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <input type="text" placeholder="primer nombre"  class="textbox" name="phpalicia" />
       <input type="text" placeholder="Apellido" class="textbox"  name="segundoapellido" />
       <input type="text" placeholder="Direccion de Email" class="textbox" name="ingresacorreo" />
-      <input type="button" value="Next" class="button" />
+      <input type="submit" value="Next" class="button" />
     <?php echo form_close() ?>
   </div>
 </div>
